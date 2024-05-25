@@ -1,0 +1,32 @@
+{
+    "status":true,
+    "data":[
+        {
+            "id":1,
+            "name":"eliane",
+            "lname":"sawaya",
+            "courses":[
+                {
+                    "id":1,
+                    "cname":"OS"
+                },
+                {
+                    "id":2,
+                    "cname":"DB"
+                }
+
+            ]
+        },
+        {
+            "id":2,
+            "name":"anthony",
+            "lname":"zakkour"
+        },
+        {
+            "id":3,
+            "name":"wissam",
+            "lname":"boghos"
+        }
+
+    ]
+}
