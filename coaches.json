@@ -20,12 +20,18 @@
         {
             "id":2,
             "name":"anthony",
-            "lname":"zakkour"
+            "lname":"zakkour",
+            "courses":{
+                "id":5,
+                "cname":"calc3"
+            }
         },
         {
             "id":3,
             "name":"wissam",
-            "lname":"boghos"
+            "lname":"boghos",
+            "courses":null
+
         }
 
     ]
